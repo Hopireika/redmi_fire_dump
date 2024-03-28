@@ -1,0 +1,14 @@
+# missi_phone_global-user 14 UP1A.231005.007 V816.0.3.0.UMXMIXM release-keys
+- manufacturer: xiaomi
+- platform: mt6768
+- codename: fire
+- flavor: missi_phone_global-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: V816.0.3.0.UMXMIXM
+- tags: release-keys
+- fingerprint: Redmi/vnd_fire/fire:12/UP1A.231005.007/V816.0.3.0.UMXMIXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi_phone_global-user-14-UP1A.231005.007-V816.0.3.0.UMXMIXM-release-keys
+- repo: redmi_fire_dump
